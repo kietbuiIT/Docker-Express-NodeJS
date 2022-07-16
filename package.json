@@ -1,0 +1,24 @@
+{
+  "name": "docker-express-nodejs",
+  "version": "1.0.0",
+  "description": "Learn docker basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kietbuiIT/Docker-Express-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kietbuiIT/Docker-Express-NodeJS/issues"
+  },
+  "homepage": "https://github.com/kietbuiIT/Docker-Express-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
